@@ -1,4 +1,10 @@
-	I’ve been seriously thinking about my decision to major in math. It’s not like math is something I was ever really passionate about. Math is math, I do it because careers that make you do math pay you a lot of money. 
+---
+title: "Thoughts About Majoring in Math"
+date: 2026-03-09
+draft: false
+---
+
+I’ve been seriously thinking about my decision to major in math. It’s not like math is something I was ever really passionate about. Math is math, I do it because careers that make you do math pay you a lot of money. 
 	Sometimes when I think about it for a second too long it feels like I’ve betrayed myself, like I should have gone into creative writing, journalism, philosophy or something. But those paths don’t make money, or as much money. They don’t pay you back for all of the trouble you went through to attend college and take loans out and graduate. I guess for some, going to college isn’t any trouble at all. Some enjoy their college experience, it’s a time for them to smoke weed and hang out with their friends and get drunk on Saturdays before they have to get a job. It’s not a ritual of constantly feeling like an idiot and bashing your head against the wall every time you encounter a problem you don’t immediately know how to solve, which is every problem for me at least. 
 	I like technical things too, I run linux like those nerds on the internet do, I tinker with computers, I got claude to build me an app, I jailbroke my kindle. I installed linux on my chromebook. I’m clearly a smart fella, I belong in STEM, what’s math anyway? I can do that, bro I can do computers… 
 	It’s become a ritual of constantly feeling inadequate. Constantly feeling like the other shoe is about to drop. I keep telling myself to stop being a baby. Yeah it’s hard that’s the point, engineers that can’t pass basic Calculus shouldn’t be building bridges. Yeah, not everyone should be a mathematician, then mathematics wouldn’t advance anymore, and we wouldn’t get cool shit like AI building apps for you. 
