@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Demetrio.club</title>
+    <link>http://localhost:33489/series/</link>
+    <description>Recent content in Series on Demetrio.club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>demetrioc@proton.me (Demetrio Cantu-Alanis)</managingEditor>
+    <webMaster>demetrioc@proton.me (Demetrio Cantu-Alanis)</webMaster>
+    <copyright>© 2026 Demetrio Cantu-Alanis</copyright>
+    <atom:link href="http://localhost:33489/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
