@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Demetrio.club</title>
-    <link>http://localhost:33489/articles/</link>
+    <link>http://localhost:1313/articles/</link>
     <description>Recent content in Articles on Demetrio.club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>demetrioc@proton.me (Demetrio Cantu-Alanis)</managingEditor>
     <webMaster>demetrioc@proton.me (Demetrio Cantu-Alanis)</webMaster>
     <copyright>© 2026 Demetrio Cantu-Alanis</copyright>
-    <atom:link href="http://localhost:33489/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Thoughts About Majoring in Math</title>
+      <link>http://localhost:1313/articles/majoring-in-math-vs.-pursuing-passions/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <author>demetrioc@proton.me (Demetrio Cantu-Alanis)</author>
+      <guid>http://localhost:1313/articles/majoring-in-math-vs.-pursuing-passions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thoughts After Switching From Windows 11 to Omarchy &#43; Jailbreaking my Kindle</title>
+      <link>http://localhost:1313/articles/thoughts-after-switching-from-windows-11-to-omarchy-archlinux-&#43;-jailbreaking-my-kindle/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <author>demetrioc@proton.me (Demetrio Cantu-Alanis)</author>
+      <guid>http://localhost:1313/articles/thoughts-after-switching-from-windows-11-to-omarchy-archlinux-&#43;-jailbreaking-my-kindle/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title></title>
-      <link>http://localhost:33489/articles/test/</link>
+      <link>http://localhost:1313/articles/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>demetrioc@proton.me (Demetrio Cantu-Alanis)</author>
-      <guid>http://localhost:33489/articles/test/</guid>
+      <guid>http://localhost:1313/articles/test/</guid>
       <description></description>
       
     </item>
