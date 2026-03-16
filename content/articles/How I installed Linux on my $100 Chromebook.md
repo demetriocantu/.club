@@ -1,6 +1,6 @@
 ---
-title: "How I Installed Linux on my $100 Chromebook""
-date: 2026-03-013
+title: "How I Installed Linux on my $100 Chromebook"
+date: 2026-03-13
 draft: false
 ---
 
