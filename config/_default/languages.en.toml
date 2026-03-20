@@ -17,7 +17,7 @@ title = "Demetrio.club"
 [params.author]
    name = "Demetrio Cantu-Alanis"
    email = "demetrioc@proton.me"
-   image = "profile.webp"
+   image = "image.jpg"
    imageQuality = 96
    headline = "Just Posting What I'm Working On"
    bio = "A little bit about you"
@@ -70,7 +70,7 @@ title = "Demetrio.club"
 #     { twitter = "https://twitter.com/username" },
 #     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
-     { youtube = "https://youtube.com/@AwesomestGamer" },
+     { youtube = "https://youtube.com/@Demetrio777" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
   ]
