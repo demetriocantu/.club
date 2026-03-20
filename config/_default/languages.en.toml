@@ -17,7 +17,7 @@ title = "Demetrio.club"
 [params.author]
    name = "Demetrio Cantu-Alanis"
    email = "demetrioc@proton.me"
-   image = "assets/profile.jpg"
+   image = "profile.webp"
    imageQuality = 96
    headline = "Just Posting What I'm Working On"
    bio = "A little bit about you"

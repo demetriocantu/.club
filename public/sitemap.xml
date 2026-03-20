@@ -3,31 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/articles/</loc>
+    <loc>https://demetrio.club/articles/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://demetrio.club/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://demetrio.club/articles/how-i-installed-linux-on-my-100-chromebook/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://demetrio.club/articles/majoring-in-math-vs.-pursuing-passions/</loc>
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://demetrio.club/articles/thoughts-after-switching-from-windows-11-to-omarchy-archlinux-&#43;-jailbreaking-my-kindle/</loc>
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/articles/majoring-in-math-vs.-pursuing-passions/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/articles/thoughts-after-switching-from-windows-11-to-omarchy-archlinux-&#43;-jailbreaking-my-kindle/</loc>
-    <lastmod>2026-03-09T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/articles/test/</loc>
+    <loc>https://demetrio.club/articles/test/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
