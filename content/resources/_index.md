@@ -4,10 +4,26 @@ description: "Projects, tools, and references I find useful."
 draft: false
 ---
 
-This page will collect useful tools, projects, and references.
+Useful tools and references for you to use.
 
-For now, the main things worth checking are:
+
+
+Favorite Books:
+
+Reality Transurfing - Vadim Zeland
+
+Prometheus Rising - Robert Anton Wilson
+
+The Stranger - Albert Camus
+
+
+
+My Language App:
 
 - [Echolingua](https://echolingua.app/)
-- [GitHub](https://github.com/demetriocantu)
+
+
+
+My YouTube Channel:
+
 - [YouTube](https://youtube.com/@Demetrio777)
