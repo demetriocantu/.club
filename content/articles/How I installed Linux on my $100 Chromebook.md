@@ -53,18 +53,18 @@ The Disabling Write Protection Ritual
 	Apparently there was one other user with my exact chromebook who tried bridging the jumper slots to no avail and got a reply from mrchromebox saying that the SuzyQ cable was probably the only way. So I ordered a SuzyQ cable and decided to play the waiting game... I installed Linux on my PC. I got impatient so I wiped the drive and started fresh. 
 	Anyway, once the SuzyQ cable arrived I was ready. I plugged in the cable per the instructions, run every command, press the power button when prompted and... the write protections were still enabled. I couldn't believe it. This was my only chance and it was cooked. I tried again and again, first rotating the cable, then trying by inserting different cables, still wouldn't budge. 
 
-![](/home/demetrio/Downloads/suzyq.webp)
+![](/images/chromebook/suzyq.webp)
 
 ​	I was in too deep at this point. I had sank MONEY into this. $15. Not much but considering the emotional attachment I had grown to this project, it only reinforced me feeling like I needed to finish this.
 ​	So I unscrew the back panel and start digging. Try the battery method. Nothing. I look for the jumpers but can't find them. Then I turned on my lamp, open a window, turn on my phone's flashlight, and begin looking. I still cannot find them. I begin to get worried. 
 ​	I open the camera and zoom in 5x to the motherboard. I inspect every square millimiter, every single chip, every single dent, until finally... I see them. Four little holes aligned in a straight line right next to the wifi chip. 
 
-![](/home/demetrio/Downloads/jumpers.webp)
+![](/images/chromebook/jumpers.webp)
 
 ​	Now I needed something miniscule to bridge these together. I didn't have paperclips and I wasn't about to go to walmart just to buy paperclips. So I found an old micro-HDMI cable that was basically useless and I chopped the tip off with some scissors. I cut another end of the cable until I have a small strip of cables. I begin slowly cutting into the rubber until I expose the inner foil layer containing the copper wires. I began to unwra it with my hands but it cuts me so I resort to doing it with scissors only. Very slow, very tedious, until I get a small group of copper cables together. Except they're STILL coated with another protective layer, so I scrape it off with my fingernail until finally I have a copper cable, barely thinner than a hair, and I'm ready. I lay the computer face up on my lap, exposed motherboard facing me. 
 ​	I connect the cables and go to turn on my computer, my hand instantly gets shaky, I realize this is going to be harder than I thought. I get a firm grasp of the cables and insert them in the motherboard. I'm locked in now. I turn on the computer. Place my chin against it so it doesn't move while I plug it in (you need to have every power source including the battery disconnected while you bridge the jumpers for safety reasons, you are essentially shorting the WP, you could shock yourself).
 
-![](/home/demetrio/Downloads/bridging.webp)
+![](/images/chromebook/bridging.webp)
 
 ​	I start typing the code in, slowly, steadily, when all of a sudden... I'm in. I let go of the copper cable and finally boot into Linux normally. This time, I went with Omarchy because it looks cooler than Mint.
 
@@ -75,4 +75,4 @@ The Disabling Write Protection Ritual
   Overall, I'm happy I did this. I love using my laptop even more now and it truly feels functional. I installed Ollama on it, I synced my Obsidian notes with my PC, it just feels like it work FOR me, not like it's trying to sell me something. Plus, it's legitimately nice to use. Omarchy uses the hyprland window manager which makes every window split in the most satisfying way. It feels PRODUCTIVE. I can code on it, I can play videogames on it (albeit very low-powered games, but games nonetheless), I can do everything I want on it, and I can uninstall literally evey program I don't like, I'm not stuck with them like I would be on ChromeOS or Windows. If you're going through this process or if you've ever thought about switching to Linux, I strongly recommend you do it. Almost every technology on earth is built on linux, from MacOS, to every server on earth, its all Linux. Not only does it give you a new perspective on technology as a whole, the customization is so much fun. If you run into trouble there's a billion wikis and forums available to help, not to mention AI models who are trained on Linux data and are basically experts. If you have moral quarrels regarding AI however, local models running on your machine (not in a data center in Texas) can debug your code for you, for free, ethically, without sending your data anywhere. 
   The level of freedom is unparalleled, it's something you truly ought to experience for yourself. Stripping down a laptop and jamming copper into it until it does what you want it to may be a bit much, but taking control of your technology is something becoming increasingly invaluable as we enter an era where our data is a commodity sold to the highest bidder, privacy is becoming obsolete, spying has become accepted, and computing power is increasingly becoming something that can only be accessed by a privileged few, as opposed to a tool which freed millions from the old era and brought the world into a new age where anybody can access any piece of information they wish.
 
-![](/home/demetrio/Downloads/omarchy.webp)
+![](/images/chromebook/omarchy.webp)
