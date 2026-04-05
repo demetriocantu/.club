@@ -1,6 +1,6 @@
 ---
 title: "We Aspire Towards Beauty Because We Want To Be Like The Gods"
-date: 2026-03-05
+date: 2026-04-05
 draft: false
 ---
 
