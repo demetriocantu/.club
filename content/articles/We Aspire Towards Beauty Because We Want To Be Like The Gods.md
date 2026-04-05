@@ -4,6 +4,8 @@ date: 2026-04-05
 draft: false
 ---
 
+![Mount Olympus](/images/olympus.jpg)
+
 A symbol of our closeness with the gods.
 
 Even bears have been known to recognize beauty, often gazing into expansive, beautiful landscapes. This quality about bears might even make one think that bears are ensouled (or ensouled to a higher capacity than non-beauty-recognizing animals).
@@ -22,7 +24,11 @@ Everybody aspires towards divinity.
 
 Men pack themselves in gyms to be like Ares and Achilles. Women buy skincare products and wear makeup to look like Aphrodite. Hercules is always depicted with a strong body, worth aspiring towards.
 
+![Mars and Venus](/images/marsandvenus.jpg)
+
 Jesus is always depicted, and described, as a beautiful man. When the viral "this is what Jesus really looked like" image caused controversy, it was precisely because it made Jesus no longer beautiful... a blasphemous idea in the eyes of millions. To imply that Jesus was not beautiful almost implies he was not divine.
+
+![Jesus](/images/jesusandotherjesus.jpg)
 
 When somebody says they are an atheist, to a subconscious degree that will make you think that they are incapable of recognizing beauty... that they do not see the beauty in life. Even that they are drawn towards the ugly or disorderly (what is the big bang if not ultimate disorder)
 
